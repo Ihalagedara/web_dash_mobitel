@@ -48,7 +48,7 @@
       display: none;
     }
 
-    /* Responsive - hamburger */
+    /* Responsive - hamburger new */
     @media screen and (max-width: 600px) {
       .navbar a:not(:first-child) {
         display: none;
